@@ -5,6 +5,4 @@ package info.preva1l.sentinel.actions
  *
  * @author Preva1l
  */
-object ActionRegistry {
-
-}
+object ActionRegistry
